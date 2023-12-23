@@ -1,6 +1,6 @@
 # StopWatch
 
-The Stopwatch App is a user-friendly web application that provides a straightforward way to measure elapsed time. Built with [Technology/Framework/Library], this app offers a clean and intuitive interface for time tracking.
+The Stopwatch App is a user-friendly web application that provides a straightforward way to measure elapsed time. Built with JavaScript, this app offers a clean and intuitive interface for time tracking.
 
 # Demo :
 
