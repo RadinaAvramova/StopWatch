@@ -41,6 +41,7 @@ CSS
 
 # Installation
 To use the Stopwatch App locally, follow these steps:
+
 1.Clone the repository: git clone https://github.com/your-username/stopwatch-app.git
 
 2.Navigate to the project directory:
